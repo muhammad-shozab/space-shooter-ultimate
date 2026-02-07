@@ -6,7 +6,7 @@
 
 A feature-rich space shooter game built with C++ and SFML, demonstrating object-oriented programming principles and game development concepts.
 
-![Game Banner](<img width="1365" height="716" alt="Screenshot 2026-02-07 131229" src="https://github.com/user-attachments/assets/eee12e9f-ecee-4458-840e-6e16f95cab51" />
+![Uploading Screenshot 2026-02-07 131229.png…]()
 )
 
 ## 📖 Table of Contents
